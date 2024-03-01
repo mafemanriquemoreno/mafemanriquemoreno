@@ -1,14 +1,11 @@
 [![perfil-git.png](https://i.postimg.cc/BnXBqwvM/perfil-git.png)](https://postimg.cc/YvBWRRYW)
 
-### Bienvenid@ 👋
+## <img src="[https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NlODB4M2cycWx1YnNzN2FnZDFocDRmeXU3dGwzanR1N2o5MDMwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif)" width="200"/>     Bienvenid@ 👋
 
-<!--
-**mafemanriquemoreno/mafemanriquemoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora web en formación: Estoy dedicada a aprender y dominar las habilidades esenciales para convertirme en un desarrollador web completo. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Tengo experiencia en C y funadmentos en HTML, CSS, JavaScript  
+- 🌱  Estoy ampliando mis conocimientos con  Python, Java.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
