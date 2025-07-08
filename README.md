@@ -1,6 +1,4 @@
-[![perfil-git.png](https://i.postimg.cc/BnXBqwvM/perfil-git.png)](https://postimg.cc/YvBWRRYW)
-
-# 👋 ¡Hola! Soy Maria Fernanda Manrique
+# 👋 ¡Hola! Soy Maria Fernanda Manrique <img src="https://media.tenor.com/images/a9459ad96f8b33846945182a9f1c4664/tenor.gif" width="30" align="absmiddle">
 
 <p align="left">
   Actualmente estudio desarrollo de software, con un enfoque en Data Science e Inteligencia Artificial. Me apasiona el mundo de los datos y cómo transformarlos en conocimiento.
@@ -25,6 +23,9 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mafemanriquemoreno&show_icons=true&locale=es&theme=dark" alt="Estadísticas de GitHub de Mafe Manrique" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafemanriquemoreno&layout=compact&locale=es&theme=dark" alt="Lenguajes más usados por Mafe Manrique" />
 </p>
 
