@@ -3,6 +3,7 @@
 <p align="left">
   Actualmente estudio desarrollo de software, con un enfoque en Data Science e Inteligencia Artificial. Me apasiona el mundo de los datos y cómo transformarlos en conocimiento.
 </p>
+
 <p align="left">
   Estoy profundizando mis conocimientos en <strong>Python</strong> para análisis de datos con librerías como <strong>Pandas</strong> y <strong>NumPy</strong>.
 </p>
@@ -12,6 +13,7 @@
 ### 🚀 Mis Habilidades
 
 <p align="left">
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pandas,numpy,javascript,html,css,c,cplusplus,php,postgresql,git" />
   </a>
@@ -24,6 +26,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mafemanriquemoreno&show_icons=true&locale=es&theme=dark" alt="Estadísticas de GitHub de Mafe Manrique" />
 </p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafemanriquemoreno&layout=compact&locale=es&theme=dark" alt="Lenguajes más usados por Mafe Manrique" />
